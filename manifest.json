@@ -1,0 +1,15 @@
+{
+  "name": "Today's Shape — Habit Coach",
+  "short_name": "TodaysShape",
+  "description": "Adaptive habit tracker with a non-judgmental AI coach.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF7F1",
+  "theme_color": "#6B7A5E",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
